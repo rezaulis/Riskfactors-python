@@ -1,0 +1,6 @@
+Indicator                            Min                           Max
+Heart Disease Death Rate (2007):   Minnesota           129.8     Mississippi         266.5     
+Motor Vehicle Death Rate (2009):   Indiana             10.79     Pennsylvania        9.96      
+Teen Birth Rate (2009):            New Hampshire       16.4      Mississippi         64.2      
+Adult Smoking (2010):              California          12.1      Utah                9.1       
+Adult Obesity (2010):              Colorado            21.4      Mississippi         34.5      
